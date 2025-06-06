@@ -2,9 +2,9 @@
    "name": "help-center-framework",
    "version": "1.0.0",
    "description": "A framework for creating customizable help centers and knowledge bases",
-   "main": "lib/index.js",
+   "main": "src/index.js",
    "bin": {
-      "help-center": "./bin/help-center.js"
+      "help-center": "./help-center.js"
    },
    "scripts": {
       "dev": "next dev",
